@@ -1,0 +1,6 @@
+name: SeeYouSoon
+main: me.mark.SeeYouSoon
+version: 1.0
+commands:
+   leaving:
+      description: Announce your leave
